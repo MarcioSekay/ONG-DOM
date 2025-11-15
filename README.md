@@ -134,7 +134,7 @@ ONG-DOM-final/
 
 ## 🚀 Como Executar
 
-### Link direto do site: https://monicannk.github.io/Ong_DOM/
+### Link direto do site:  https://github.com/MarcioSekay/ONG-DOM.git
 
 ### Pré-requisitos
 
